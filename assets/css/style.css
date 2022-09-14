@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+#container{
+    width: 5671px;
+    margin: 0 auto;
+}
+
+#header{
+    background-image: url("https://i.ibb.co/vkRJFtD/Flag-of-da-chocc.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:2853px ;
+    font-size: 200px;
+    text-align: center;
+    line-height: 2853px;
+}
+
+#footer{
+    background-color: green;
+}
